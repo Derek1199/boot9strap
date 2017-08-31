@@ -20,3 +20,7 @@ Launches "boot.firm" off of the SD card or CTRNAND. Hold Start + Select + X on b
 
 This software is licensed under the terms of the GPLv3.  
 You can find a copy of the license in the LICENSE file.
+
+**Compiling:**
+
+You will need devkitARM, [ctrulib](https://github.com/smealum/ctrulib), [armips](https://github.com/Kingcom/armips), and pycryptodome.
